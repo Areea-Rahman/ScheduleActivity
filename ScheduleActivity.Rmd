@@ -1,0 +1,16 @@
+---
+title: "R Markdown Schedule"
+author: "Areea Rahman"
+date: "09/12/2023"
+output: html_notebook
+---
+
+# Schedule
+
+### STAT 184: Introduction to R Programming
+
+This class is about coding in R and looking at data to create visualization. I also get to learn how to use GitHub. [This is a website on some basic instructor information](https://science.psu.edu/stat/people/xfx5074) ![Picture of R interface](https://upload.wikimedia.org/wikipedia/commons/e/ed/RStudio_IDE_screenshot.png)
+
+
+
+
