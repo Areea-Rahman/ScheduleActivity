@@ -11,6 +11,11 @@ output: html_notebook
 
 This class is about coding in R and looking at data to create visualization. I also get to learn how to use GitHub. [This is a website on some basic instructor information](https://science.psu.edu/stat/people/xfx5074) ![Picture of R interface](https://upload.wikimedia.org/wikipedia/commons/e/ed/RStudio_IDE_screenshot.png)
 
+### INFUSION
+This is a club that hosts a Bollywood Filmi-Fusion club at Eisenhower Auditorium. I am the Hospitality Director and work with the committee to create our mixer event! [Our Infusion Website](http://pennstateinfusion.org/)
+![Our Old Infusion Board](https://media.licdn.com/dms/image/C4E1BAQE2U48kaKjWJQ/company-background_10000/0/1588569635218?e=1694714400&v=beta&t=oKzLH8eYGBpkLk3CC3o6DxMp46BS1iTeUI7Y4nkKN9w)
 
-
-
+### THON
+THON is the largest-run student philanthropy in the country. This year I am a THON Finance captain and help count the money towards our total that is revealed in February for a cure towards childhood cancer.
+[The THON Website](https://thon.org/)
+![A Picture of Our Total Last Year](https://www.statecollege.com/wp-content/uploads/2023/02/THON-TOTAL-2023-.jpeg)
